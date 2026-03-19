@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AISW-510-130\\source\\repos\\CClasstest02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9A3BBC-4DE6-4C04-8109-B0FAF13C4125}|CClasstest02\\CClasstest02.vcxproj|C:\\Users\\AISW-510-130\\source\\repos\\CClasstest02\\CClasstest02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB9A3BBC-4DE6-4C04-8109-B0FAF13C4125}|CClasstest02\\CClasstest02.vcxproj|solutionrelative:CClasstest02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\AISW-510-130\\source\\repos\\CClasstest02\\CClasstest02\\main.c",
+              "RelativeDocumentMoniker": "CClasstest02\\main.c",
+              "ToolTip": "C:\\Users\\AISW-510-130\\source\\repos\\CClasstest02\\CClasstest02\\main.c",
+              "RelativeToolTip": "CClasstest02\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T06:17:26.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

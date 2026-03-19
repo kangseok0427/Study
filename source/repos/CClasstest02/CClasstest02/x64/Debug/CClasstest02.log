@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\AISW-510-130\source\repos\CClasstest02\CClasstest02\main.c(5,2): warning C4013: 'TestPrintf1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\AISW-510-130\source\repos\CClasstest02\CClasstest02\main.c(7,2): warning C4013: 'TestPrintf2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\AISW-510-130\source\repos\CClasstest02\CClasstest02\main.c(9,2): warning C4013: 'TestPrintf3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  CClasstest02.vcxproj -> C:\Users\AISW-510-130\source\repos\CClasstest02\x64\Debug\CClasstest02.exe
