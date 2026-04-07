@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="95608e6d-308f-4520-90f4-6d258eecf373" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD/01.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../MD/01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/repos/.vs/repos.slnx/FileContentIndex/5f631b5b-1944-4c26-9270-6f0d0c6cd3f8.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/repos/.vs/repos.slnx/FileContentIndex/72b51b0c-363f-418c-a6f2-99e1e69a3fbf.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/repos/.vs/repos.slnx/v18/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/.vs/repos.slnx/v18/.wsuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/repos/.vs/repos.slnx/v18/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/.vs/repos.slnx/v18/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/repos/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/.vs/slnx.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +50,10 @@
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.ScannerTest01.executor": "Run",
     "애플리케이션.parsetest.executor": "Run",
+    "애플리케이션.t01.executor": "Run",
+    "애플리케이션.t02.executor": "Run",
+    "애플리케이션.t03.executor": "Run",
+    "애플리케이션.t04.executor": "Run",
     "애플리케이션.test01.executor": "Run",
     "애플리케이션.test02.executor": "Run",
     "애플리케이션.test03.executor": "Run",
@@ -70,6 +80,8 @@
       <workItem from="1773886094679" duration="2084000" />
       <workItem from="1774325625181" duration="1000" />
       <workItem from="1774484307150" duration="7566000" />
+      <workItem from="1774936239709" duration="160000" />
+      <workItem from="1775088459268" duration="9044000" />
     </task>
     <servers />
   </component>

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AISW-510-130\\source\\repos\\CClasstest02\\",
+  "WorkspaceRootPath": "D:\\Study\\source\\repos\\CClasstest02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB9A3BBC-4DE6-4C04-8109-B0FAF13C4125}|CClasstest02\\CClasstest02.vcxproj|C:\\Users\\AISW-510-130\\source\\repos\\CClasstest02\\CClasstest02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CB9A3BBC-4DE6-4C04-8109-B0FAF13C4125}|CClasstest02\\CClasstest02.vcxproj|D:\\Study\\source\\repos\\CClasstest02\\CClasstest02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB9A3BBC-4DE6-4C04-8109-B0FAF13C4125}|CClasstest02\\CClasstest02.vcxproj|solutionrelative:CClasstest02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\AISW-510-130\\source\\repos\\CClasstest02\\CClasstest02\\main.c",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\CClasstest02\\CClasstest02\\main.c",
               "RelativeDocumentMoniker": "CClasstest02\\main.c",
-              "ToolTip": "C:\\Users\\AISW-510-130\\source\\repos\\CClasstest02\\CClasstest02\\main.c",
+              "ToolTip": "D:\\Study\\source\\repos\\CClasstest02\\CClasstest02\\main.c",
               "RelativeToolTip": "CClasstest02\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
