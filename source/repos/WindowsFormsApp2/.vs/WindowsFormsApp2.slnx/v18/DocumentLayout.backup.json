@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\source\\repos\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB6F58B-2B6D-42D2-B7CA-7A951FCB0294}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\source\\repos\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB6F58B-2B6D-42D2-B7CA-7A951FCB0294}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB6F58B-2B6D-42D2-B7CA-7A951FCB0294}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Study\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB6F58B-2B6D-42D2-B7CA-7A951FCB0294}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB6F58B-2B6D-42D2-B7CA-7A951FCB0294}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\source\\repos\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEB6F58B-2B6D-42D2-B7CA-7A951FCB0294}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T01:22:51.671Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.Designer.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T01:33:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T02:26:08.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
