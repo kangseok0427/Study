@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="95608e6d-308f-4520-90f4-6d258eecf373" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/ai0416/t01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/ai0416/t01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0416/t02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0416/t02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,7 @@
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.ScannerTest01.executor": "Run",
     "애플리케이션.ai0416.t01.executor": "Run",
+    "애플리케이션.ai0416.t02.executor": "Run",
     "애플리케이션.parsetest.executor": "Run",
     "애플리케이션.t01.executor": "Run",
     "애플리케이션.t02.executor": "Run",
@@ -141,7 +144,7 @@
       <workItem from="1775088459268" duration="9044000" />
       <workItem from="1775693435901" duration="2521000" />
       <workItem from="1775696352791" duration="5887000" />
-      <workItem from="1776298068027" duration="3911000" />
+      <workItem from="1776298068027" duration="6946000" />
     </task>
     <servers />
   </component>
