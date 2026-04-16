@@ -43,18 +43,19 @@
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.ScannerTest01.executor": "Run",
+    "애플리케이션.ai0416.t01.executor": "Run",
     "애플리케이션.parsetest.executor": "Run",
     "애플리케이션.t01.executor": "Run",
     "애플리케이션.t02.executor": "Run",
     "애플리케이션.t03.executor": "Debug",
-    "애플리케이션.t04.executor": "Run",
+    "애플리케이션.t04.executor": "Debug",
     "애플리케이션.test01.executor": "Run",
     "애플리케이션.test02.executor": "Run",
     "애플리케이션.test03.executor": "Run",
     "애플리케이션.test04.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.t04">
+  <component name="RunManager">
     <configuration name="t01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ai0409.t01" />
       <module name="test" />
@@ -109,10 +110,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.t01" />
         <item itemvalue="애플리케이션.t04" />
         <item itemvalue="애플리케이션.t03" />
         <item itemvalue="애플리케이션.t02" />
-        <item itemvalue="애플리케이션.t01" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +141,7 @@
       <workItem from="1775088459268" duration="9044000" />
       <workItem from="1775693435901" duration="2521000" />
       <workItem from="1775696352791" duration="5887000" />
+      <workItem from="1776298068027" duration="3911000" />
     </task>
     <servers />
   </component>
