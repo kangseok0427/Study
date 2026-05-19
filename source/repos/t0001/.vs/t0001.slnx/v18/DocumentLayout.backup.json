@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\source\\repos\\t0001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B625F5-6AFF-4381-AA68-9AFEBFA9731F}|t0001\\t0001.csproj|d:\\study\\source\\repos\\t0001\\t0001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B625F5-6AFF-4381-AA68-9AFEBFA9731F}|t0001\\t0001.csproj|solutionrelative:t0001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B625F5-6AFF-4381-AA68-9AFEBFA9731F}|t0001\\t0001.csproj|D:\\Study\\source\\repos\\t0001\\t0001\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B625F5-6AFF-4381-AA68-9AFEBFA9731F}|t0001\\t0001.csproj|solutionrelative:t0001\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B625F5-6AFF-4381-AA68-9AFEBFA9731F}|t0001\\t0001.csproj|d:\\study\\source\\repos\\t0001\\t0001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12B625F5-6AFF-4381-AA68-9AFEBFA9731F}|t0001\\t0001.csproj|solutionrelative:t0001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\t0001\\t0001\\Form1.cs",
+              "RelativeDocumentMoniker": "t0001\\Form1.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\t0001\\t0001\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "t0001\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T00:09:49.939Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\t0001\\t0001\\Product.cs",
+              "RelativeDocumentMoniker": "t0001\\Product.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\t0001\\t0001\\Product.cs",
+              "RelativeToolTip": "t0001\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T00:17:14.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\t0001\\t0001\\Form1.cs",
+              "RelativeDocumentMoniker": "t0001\\Form1.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\t0001\\t0001\\Form1.cs",
+              "RelativeToolTip": "t0001\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvywAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T00:22:58.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
