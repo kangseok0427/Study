@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        
+        let date = new Date();
+        let hours = date.getHours();
+
+        if(hours < 8) {
+            alert("등교 시간입니다. 서둘러 학교에 가세요!");
+        } else if (hours < 11) {
+            alert("점심시간 입니다. 맛있게 드세요!");
+        } else if (hours < 18) {
+            alert("하교시간입니다. 수업을 마무리하세요!");
+        }
+        else {
+            alert("집에 가서 쉬세요!");
+        }
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

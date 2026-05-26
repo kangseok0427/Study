@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form method="get" action="t03.html">
+        <fieldset>
+            <legend>회원가입</legend>
+            <table width="300">
+                <tr>
+                    <td><label for="name">성명 : </label></td>
+                    <td><input type="text" name="name" id="name"></td>
+                </tr>
+                <tr>
+                    <td><label for="email">이메일 : </label></td>
+                    <td><input type="email" name="email" id="email"></td>
+                </tr>
+                <tr>
+                    <td><label for="address">주소 : </label></td>
+                    <td><input type="text" name="address" id="address"></td>
+                </tr>
+                <tr>
+                    <td><label for="gender">성별 : </label></td>
+                    <td>
+                        <input type="radio" name="gender" value="male" id="male">
+                        <label for="male">남성</label>
+                        <input type="radio" name="gender" value="female" id="female">
+                        <label for="female">여성</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="hobby">취미 : </label></td>
+                    <td>
+                        <input type="checkbox" name="hobby" value="sports" id="sports">
+                        <label for="sports">독서</label>
+                        <input type="checkbox" name="hobby" value="music" id="music">
+                        <label for="music">음악</label>
+                        <input type="checkbox" name="hobby" value="movie" id="movie">
+                        <label for="movie">스포츠</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" value="가입하기">
+                        <input type="reset" value="입력 초기화">
+                    </td>
+                </tr>
+            </table>
+            
+        </fieldset>
+        </form>
+</body>
+</html>
