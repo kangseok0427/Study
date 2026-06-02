@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>요소객체 속성 조작</title>
+    <script>
+        window.onload = function() {
+            let img = document.getElementById("img");
+            let btn = document.getElementById("btn");
+            let i = 0;
+
+            img.src = "dow1.jpg";
+
+            btn.onclick = function() {
+                if(i == 0) {
+                    img.src = "dow1.jpg";
+                    btn.textContent = "Change to dow2.jpg";
+                    i = 1;
+                } else {
+                    img.src = "dow2.jpg";
+                    btn.textContent = "Change to dow1.jpg";
+                    i = 0;
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <img id="img">
+    <button id="btn">Change to dow2.jpg</button>
+</body>
+</html>
