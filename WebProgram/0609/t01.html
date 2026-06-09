@@ -18,9 +18,18 @@
                 img.src = images[index];
             }, 2000);
         }
+
+        window.onload = function() {
+            let a1 = document.getElementById("a1");
+            a1.onclick = function(){
+                //event.preventDefault();
+                return false;
+            }
+        }
     </script>
 </head>
 <body>
     <img src = "imgs/p1.jpg" width="500" height="300">
+    <a href="https://www.google.com" id="a1">디폴트 이벤트 제거</a>
 </body>
 </html>
