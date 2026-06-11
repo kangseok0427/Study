@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "t01",
+      "request": "launch",
+      "mainClass": "ai0611.t01",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
