@@ -1,0 +1,13 @@
+D:\Study\source\repos\T01\T01\obj\Debug\T01.csproj.AssemblyReference.cache
+D:\Study\source\repos\T01\T01\obj\Debug\T01.Form1.resources
+D:\Study\source\repos\T01\T01\obj\Debug\T01.Properties.Resources.resources
+D:\Study\source\repos\T01\T01\obj\Debug\T01.csproj.GenerateResource.cache
+D:\Study\source\repos\T01\T01\obj\Debug\T01.csproj.CoreCompileInputs.cache
+D:\Study\source\repos\T01\T01\bin\Debug\T01.exe.config
+D:\Study\source\repos\T01\T01\bin\Debug\T01.exe
+D:\Study\source\repos\T01\T01\bin\Debug\T01.pdb
+D:\Study\source\repos\T01\T01\bin\Debug\ACTMULTILIB_K.dll
+D:\Study\source\repos\T01\T01\bin\Debug\ACTMULTILIB_K.pdb
+D:\Study\source\repos\T01\T01\obj\Debug\T01.csproj.Up2Date
+D:\Study\source\repos\T01\T01\obj\Debug\T01.exe
+D:\Study\source\repos\T01\T01\obj\Debug\T01.pdb
