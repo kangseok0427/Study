@@ -29,10 +29,15 @@
                     });
                 }
             });
+            $("a").on("click", function(e){
+                alert("링크가 클릭되었습니다.");
+                e.preventDefault();
+            });
         })
     </script>
 </head>
 <body>
     <div id="box"></div>
+    <a href="http://www.naver.com">네이버</a>
 </body>
 </html>

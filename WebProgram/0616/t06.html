@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-4.0.0.js"></script>
+    <script>
+        $(document).ready(
+            function(){
+                $("btn_fadetoggle").click(
+                    function(){
+                        $(".page").fadeToggle("2000");
+                    }
+                );
+                $("btn_toggle").click(
+                    function(){
+                        $(".page").toggle("2000");
+                    }
+                );
+                $("btn_slidetoggle").click(
+                    function(){
+                        $(".page").slideToggle("2000");
+                    }
+                );
+            }
+        );
+    </script>
+</head>
+<body>
+    <button id="btn_fadetoggle">Show Fade Toggle</button>&nbsp;
+    <button id="btn_toggle">Show Toggle</button>&nbsp;
+    <button id="btn_slidetoggle">Show Slide Toggle</button>&nbsp;
+    
+    <div class="page">
+        <h1>jQuary Toggle</h1>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Aut, nulla? Ipsum ullam explicabo sapiente cum officiis voluptate,
+            aspernatur modi, aperiam rerum quibusdam impedit mollitia dolorem
+            quaerat exercitationem sunt expedita vitae.
+        </p>
+    </div>
+</body>
+</html>
