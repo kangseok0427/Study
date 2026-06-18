@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayTest02",
+      "request": "launch",
+      "mainClass": "Java.t04.ai0618.ArrayTest02",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "ArrayTest01",
+      "request": "launch",
+      "mainClass": "Java.t04.ai0618.ArrayTest01",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
       "name": "runmain",
       "request": "launch",
       "mainClass": "runmain",
