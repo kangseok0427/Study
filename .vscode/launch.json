@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayTest03",
+      "request": "launch",
+      "mainClass": "ai0818.ArrayTest03",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
       "name": "ArrayTest02",
       "request": "launch",
       "mainClass": "ai0818.ArrayTest02",
