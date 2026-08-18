@@ -5,6 +5,20 @@
       "type": "java",
       "name": "ArrayTest02",
       "request": "launch",
+      "mainClass": "ai0818.ArrayTest02",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "ArrayTest01",
+      "request": "launch",
+      "mainClass": "ai0818.ArrayTest01",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "ArrayTest02",
+      "request": "launch",
       "mainClass": "Java.t04.ai0618.ArrayTest02",
       "projectName": "Study_e8f53ad0"
     },
