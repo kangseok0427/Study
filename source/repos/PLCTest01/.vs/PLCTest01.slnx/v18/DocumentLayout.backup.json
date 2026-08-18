@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\source\\repos\\PLCTest01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1422B16C-FA4C-4A0D-BE76-D1F38A6C6094}|PLCTest01\\PLCTest01.csproj|D:\\Study\\source\\repos\\PLCTest01\\plctest01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1422B16C-FA4C-4A0D-BE76-D1F38A6C6094}|PLCTest01\\PLCTest01.csproj|solutionrelative:plctest01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1422B16C-FA4C-4A0D-BE76-D1F38A6C6094}|PLCTest01\\PLCTest01.csproj|d:\\study\\source\\repos\\plctest01\\plctest01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1422B16C-FA4C-4A0D-BE76-D1F38A6C6094}|PLCTest01\\PLCTest01.csproj|solutionrelative:plctest01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\PLCTest01\\PLCTest01\\Form1.cs",
+              "RelativeDocumentMoniker": "PLCTest01\\Form1.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\PLCTest01\\PLCTest01\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PLCTest01\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T00:41:08.331Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\PLCTest01\\PLCTest01\\Form1.cs",
+              "RelativeDocumentMoniker": "PLCTest01\\Form1.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\PLCTest01\\PLCTest01\\Form1.cs",
+              "RelativeToolTip": "PLCTest01\\Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwGMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T01:29:05.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

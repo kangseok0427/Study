@@ -1,0 +1,80 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ArrayTest02",
+      "request": "launch",
+      "mainClass": "ai0818.ArrayTest02",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "ArrayTest01",
+      "request": "launch",
+      "mainClass": "ai0818.ArrayTest01",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "ArrayTest02",
+      "request": "launch",
+      "mainClass": "Java.t04.ai0618.ArrayTest02",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "ArrayTest01",
+      "request": "launch",
+      "mainClass": "Java.t04.ai0618.ArrayTest01",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "runmain",
+      "request": "launch",
+      "mainClass": "runmain",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "runabs",
+      "request": "launch",
+      "mainClass": "runabs",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "t01",
+      "request": "launch",
+      "mainClass": "ai0611.t01",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Study/C",
+      "program": "d:/Study/C/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

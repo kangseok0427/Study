@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    </style>
+    <script src="https://code.jquery.com/jquery-4.0.0.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("#box").css({
+                width : "100px",
+                height : "100px",
+                backgroundColor : "orange"
+            }).on({
+                click : function(){
+                    $(this).css({
+                        backgroundColor : "red"
+                    });
+                },
+                mouseenter : function(){
+                    $(this).css({
+                        backgroundColor : "blue"
+                    });
+                },
+                mouseleave : function(){
+                    $(this).css({
+                        backgroundColor : "orange"
+                    });
+                }
+            });
+            $("a").on("click", function(e){
+                alert("링크가 클릭되었습니다.");
+                e.preventDefault();
+            });
+        })
+    </script>
+</head>
+<body>
+    <div id="box"></div>
+    <a href="http://www.naver.com">네이버</a>
+</body>
+</html>

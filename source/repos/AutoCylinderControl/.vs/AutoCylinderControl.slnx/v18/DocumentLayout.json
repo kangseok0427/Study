@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\source\\repos\\AutoCylinderControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9CA28A-E3F5-4680-A6DD-7C7BFE8E66F8}|AutoCylinderControl\\AutoCylinderControl.csproj|d:\\study\\source\\repos\\autocylindercontrol\\autocylindercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9CA28A-E3F5-4680-A6DD-7C7BFE8E66F8}|AutoCylinderControl\\AutoCylinderControl.csproj|solutionrelative:autocylindercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9CA28A-E3F5-4680-A6DD-7C7BFE8E66F8}|AutoCylinderControl\\AutoCylinderControl.csproj|d:\\study\\source\\repos\\autocylindercontrol\\autocylindercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E9CA28A-E3F5-4680-A6DD-7C7BFE8E66F8}|AutoCylinderControl\\AutoCylinderControl.csproj|solutionrelative:autocylindercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9CA28A-E3F5-4680-A6DD-7C7BFE8E66F8}|AutoCylinderControl\\AutoCylinderControl.csproj|d:\\study\\source\\repos\\autocylindercontrol\\autocylindercontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9CA28A-E3F5-4680-A6DD-7C7BFE8E66F8}|AutoCylinderControl\\AutoCylinderControl.csproj|solutionrelative:autocylindercontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9CA28A-E3F5-4680-A6DD-7C7BFE8E66F8}|AutoCylinderControl\\AutoCylinderControl.csproj|d:\\study\\source\\repos\\autocylindercontrol\\autocylindercontrol\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6E9CA28A-E3F5-4680-A6DD-7C7BFE8E66F8}|AutoCylinderControl\\AutoCylinderControl.csproj|solutionrelative:autocylindercontrol\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\AutoCylinderControl\\AutoCylinderControl\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoCylinderControl\\Form1.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\AutoCylinderControl\\AutoCylinderControl\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "AutoCylinderControl\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:34:35.945Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\AutoCylinderControl\\AutoCylinderControl\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "AutoCylinderControl\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Study\\source\\repos\\AutoCylinderControl\\AutoCylinderControl\\Properties\\Resources.resx",
+              "RelativeToolTip": "AutoCylinderControl\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-12T01:44:26.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\AutoCylinderControl\\AutoCylinderControl\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AutoCylinderControl\\Form1.Designer.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\AutoCylinderControl\\AutoCylinderControl\\Form1.Designer.cs",
+              "RelativeToolTip": "AutoCylinderControl\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwv68AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:35:18.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\AutoCylinderControl\\AutoCylinderControl\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoCylinderControl\\Form1.cs",
+              "ToolTip": "D:\\Study\\source\\repos\\AutoCylinderControl\\AutoCylinderControl\\Form1.cs",
+              "RelativeToolTip": "AutoCylinderControl\\Form1.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAAwPYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:35:00.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
