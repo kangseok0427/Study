@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\source\\repos\\AIDATA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72251CC1-5BEA-44D8-85DE-73B2000F7A38}|AIDATA\\AIDATA.vcxproj|D:\\Study\\source\\repos\\AIDATA\\AIDATA\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72251CC1-5BEA-44D8-85DE-73B2000F7A38}|AIDATA\\AIDATA.vcxproj|solutionrelative:AIDATA\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.c",
+              "DocumentMoniker": "D:\\Study\\source\\repos\\AIDATA\\AIDATA\\\uC18C\uC2A4.c",
+              "RelativeDocumentMoniker": "AIDATA\\\uC18C\uC2A4.c",
+              "ToolTip": "D:\\Study\\source\\repos\\AIDATA\\AIDATA\\\uC18C\uC2A4.c",
+              "RelativeToolTip": "AIDATA\\\uC18C\uC2A4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-18T00:30:39.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

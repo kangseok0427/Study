@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95608e6d-308f-4520-90f4-6d258eecf373" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/.vs/T01.slnx/FileContentIndex/273ea62f-4685-4947-a95b-9902a4895823.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/.vs/T01.slnx/v18/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/.vs/T01.slnx/v18/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/.vs/T01.slnx/v18/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/.vs/T01.slnx/v18/DocumentLayout.backup.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/.vs/T01.slnx/v18/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/.vs/T01.slnx/v18/DocumentLayout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/T01/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/T01/Form1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/T01/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/T01/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/T01/bin/Debug/T01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/T01/bin/Debug/T01.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/T01/bin/Debug/T01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/T01/bin/Debug/T01.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/T01/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/T01/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/T01/obj/Debug/T01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/T01/obj/Debug/T01.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../source/repos/T01/T01/obj/Debug/T01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../source/repos/T01/T01/obj/Debug/T01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vscode/launch.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,38 +30,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/Study/Java/test/src/Main.java",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Main.executor": "Run",
-    "애플리케이션.ScannerTest01.executor": "Run",
-    "애플리케이션.ai0416.t01.executor": "Run",
-    "애플리케이션.ai0416.t02.executor": "Run",
-    "애플리케이션.ai0514.t01.executor": "Run",
-    "애플리케이션.ai0514.t02.executor": "Run",
-    "애플리케이션.ai0514.t03.executor": "Run",
-    "애플리케이션.ai0514.t04.executor": "Run",
-    "애플리케이션.parsetest.executor": "Run",
-    "애플리케이션.t01.executor": "Run",
-    "애플리케이션.t02.executor": "Run",
-    "애플리케이션.t03.executor": "Debug",
-    "애플리케이션.t04.executor": "Debug",
-    "애플리케이션.t05.executor": "Run",
-    "애플리케이션.t06.executor": "Run",
-    "애플리케이션.test01.executor": "Run",
-    "애플리케이션.test02.executor": "Run",
-    "애플리케이션.test03.executor": "Run",
-    "애플리케이션.test04.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Study/Java/test/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ScannerTest01.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ai0416.t01.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ai0416.t02.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ai0514.t01.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ai0514.t02.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ai0514.t03.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ai0514.t04.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.parsetest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.t01.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.t02.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.t03.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.t04.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.t05.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.t06.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.test01.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.test02.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.test03.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.test04.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="애플리케이션.t01">
     <configuration name="t01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ai0409.t01" />
@@ -162,6 +151,7 @@
       <workItem from="1776298068027" duration="6946000" />
       <workItem from="1778717235492" duration="7091000" />
       <workItem from="1782193800357" duration="96000" />
+      <workItem from="1787029246302" duration="15000" />
     </task>
     <servers />
   </component>

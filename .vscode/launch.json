@@ -50,8 +50,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Study/C/0608",
-      "program": "d:/Study/C/0608/build/Debug/outDebug",
+      "cwd": "d:/Study/C",
+      "program": "d:/Study/C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
