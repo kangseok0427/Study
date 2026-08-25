@@ -7,8 +7,8 @@ public class ArrayTest03 {
         int[] arr1 = {12, 34, 56};
         arr1 = Arrays.copyOf(arr1, arr1.length + 2);
 
-        for (int i = 0; i < arr1.length; i++) {
-            System.out.println(arr1[i]);
+        for(int data : arr1) {
+            System.out.print(data + " ");
         }
     }
 }
