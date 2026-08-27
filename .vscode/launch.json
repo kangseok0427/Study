@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "lab2",
+      "request": "launch",
+      "mainClass": "ai0825.lab2",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "RandomWords",
+      "request": "launch",
+      "mainClass": "ai0825.RandomWords",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "DeepCopy",
+      "request": "launch",
+      "mainClass": "ai0825.DeepCopy",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "CopyArray",
+      "request": "launch",
+      "mainClass": "ai0825.CopyArray",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "ReverseList",
+      "request": "launch",
+      "mainClass": "ai0825.ReverseList",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "SortArray",
+      "request": "launch",
+      "mainClass": "ai0825.SortArray",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
+      "name": "ArrayTest03",
+      "request": "launch",
+      "mainClass": "ai0818.ArrayTest03",
+      "projectName": "Study_e8f53ad0"
+    },
+    {
+      "type": "java",
       "name": "ArrayTest02",
       "request": "launch",
       "mainClass": "ai0818.ArrayTest02",
