@@ -15,5 +15,8 @@ public class lab2 {
         }
 
         System.out.println("평균 점수: " + (sum / 5));
+
+        
+    sc.close();
     }
 }
