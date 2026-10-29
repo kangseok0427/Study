@@ -1,0 +1,15 @@
+.landing-page .toolbar {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
+    border-bottom: 1px solid #00ffc4;
+}
+
+.landing-content {
+    padding: 15px;
+}
+
+.landing-content img {
+    width: 200px;
+}
