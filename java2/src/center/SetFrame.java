@@ -1,0 +1,17 @@
+package center;
+
+import ai1013.CenterFrame2;
+
+import javax.swing.*;
+import java.awt.*;
+
+public class SetFrame {
+    public static void setFrame(JFrame frame, String title, int w, int h){
+        frame.setTitle(title);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+        Point location = CenterFrame2.getLocation(w, h);
+        frame.setBounds(location.x, location.y, w, h);
+        frame.setVisible(true);
+    }
+}
