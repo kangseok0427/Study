@@ -12,9 +12,11 @@ import ReactDOM from 'react-dom/client';
 //import Mailbox from "./08/Mailbox";
 //import LogInControl2 from "./08/LogInControl2";
 //import MainPage from "./08/MainPage";
-import LandingPage from "./08/LandingPage";
+//import LandingPage from "./08/LandingPage";
 //import Counter from "./08/Counter";
-import "./08/LogInControl.css";
+//import "./08/LogInControl.css";
+//import Prac from "./09/prac";
+import AttendanceBook from "./09/AttendanceBook";
 //import Library from './03/Library';
 //import './03/Book.css';
 
@@ -27,7 +29,9 @@ root.render(
     {/* <Counter /> */}
     {/* <LogInControl2 /> */}
     {/* <MainPage /> */}
-    <LandingPage />
+    {/* <LandingPage /> */}
+    {/* <Prac /> */}
+    <AttendanceBook />
   </React.StrictMode>
 );
 

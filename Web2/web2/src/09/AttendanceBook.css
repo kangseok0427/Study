@@ -1,0 +1,14 @@
+.attendance-book {
+    width: 220px;
+    margin: 30px;
+    padding: 20px 20px 20px 40px;
+    background-color: #f0f4f8;
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+.attendance-book li {
+    padding: 6px 0;
+}

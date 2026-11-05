@@ -1,0 +1,72 @@
+.attendance-page {
+    min-height: 100vh;
+    padding: 32px 24px;
+    box-sizing: border-box;
+    background-color: #f4f5f7;
+    color: #28313d;
+    font-family: "맑은 고딕", sans-serif;
+}
+
+.attendance-page header,
+.attendance-cards {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.attendance-page h1 {
+    margin: 0 0 24px;
+    font-size: 28px;
+}
+
+.attendance-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 20px;
+}
+
+.attendance-card {
+    overflow: hidden;
+    background-color: white;
+    border: 1px solid #dce1e8;
+    border-radius: 12px;
+}
+
+.attendance-card img {
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+    background-color: #e9e8e5;
+}
+
+.attendance-card-info {
+    padding: 20px;
+}
+
+.attendance-card h2 {
+    margin: 0 0 6px;
+    font-size: 23px;
+}
+
+.attendance-card dl {
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    gap: 10px;
+    margin: 20px 0 0;
+    font-size: 14px;
+}
+
+.attendance-card dt {
+    color: #667085;
+}
+
+.attendance-card dd {
+    margin: 0;
+    overflow-wrap: anywhere;
+}
+
+@media (max-width: 350px) {
+    .attendance-cards {
+        grid-template-columns: 1fr;
+    }
+}
