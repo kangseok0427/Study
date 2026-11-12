@@ -1,0 +1,88 @@
+body {
+    background: #f5f6f8;
+    color: #333;
+    font-family: sans-serif;
+}
+
+.calculator {
+    max-width: 320px;
+    margin: 60px auto;
+    padding: 24px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.temperature-input {
+    min-width: 0;
+    margin: 0 0 16px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.temperature-input input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.calculator p {
+    color: #345b85;
+}
+
+.water-cup {
+    width: 140px;
+    height: 130px;
+    margin: 24px auto 0;
+    border: 3px solid #9bb3c7;
+    border-top: 0;
+    border-radius: 0 0 24px 24px;
+    overflow: hidden;
+    display: flex;
+    align-items: flex-end;
+}
+
+.water {
+    position: relative;
+    width: 100%;
+    height: 95px;
+    background: #a9dcf5;
+}
+
+.bubble {
+    position: absolute;
+    bottom: -20px;
+    left: 15%;
+    width: 12px;
+    height: 12px;
+    border: 2px solid white;
+    border-radius: 50%;
+    opacity: 0;
+}
+
+.boiling .bubble {
+    animation: bubble-up 1.6s linear infinite;
+}
+
+.bubble:nth-child(2) { left: 35%; animation-delay: -0.6s; }
+.bubble:nth-child(3) { left: 55%; animation-delay: -1.2s; }
+.bubble:nth-child(4) { left: 75%; animation-delay: -0.3s; }
+.bubble:nth-child(5) { left: 45%; animation-delay: -0.9s; }
+
+@keyframes bubble-up {
+    0% { transform: translateY(0) scale(0.5); opacity: 0; }
+    20% { opacity: 1; }
+    100% { transform: translateY(-115px) scale(1.2); opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .boiling .bubble {
+        animation: none;
+        bottom: 35px;
+        opacity: 1;
+    }
+}

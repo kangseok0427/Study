@@ -16,22 +16,17 @@ import ReactDOM from 'react-dom/client';
 //import Counter from "./08/Counter";
 //import "./08/LogInControl.css";
 //import Prac from "./09/prac";
-import AttendanceBook from "./09/AttendanceBook";
+//import AttendanceBook from "./09/AttendanceBook";
+//import Calculator from "./10/Calculator";
+//import Calculator from "./10/ex/Calculator";
+import Calculator from "./10/ex2/Calculator";
 //import Library from './03/Library';
 //import './03/Book.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <TodoList /> */}
-    {/* <LogInControl /> */}
-    {/* <Mailbox /> */}
-    {/* <Counter /> */}
-    {/* <LogInControl2 /> */}
-    {/* <MainPage /> */}
-    {/* <LandingPage /> */}
-    {/* <Prac /> */}
-    <AttendanceBook />
+    <Calculator />
   </React.StrictMode>
 );
 

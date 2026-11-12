@@ -1,3 +1,10 @@
+# 현재 수업 예제
+
+`src/index.js`는 `src/10/ex2/Calculator.jsx`를 표시합니다.
+`ex2/Calculator`가 거리 상태와 킬로미터·마일 변환을 관리하고, `DistanceInput`은 각 단위의 입력을 처리합니다. 1마일은 1.609344km이며 변환 결과는 소수점 6자리까지 표시합니다. 스타일은 같은 폴더의 `Calculator.css`에 있습니다.
+
+이전 `src/10/ex`의 섭씨·화씨 변환 예제도 보관되어 있습니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

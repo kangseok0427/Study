@@ -1,0 +1,35 @@
+body {
+    background: #f5f6f8;
+    color: #333;
+    font-family: sans-serif;
+}
+
+.distance-calculator {
+    max-width: 320px;
+    margin: 60px auto;
+    padding: 24px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.distance-calculator fieldset {
+    min-width: 0;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.distance-calculator input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.distance-calculator p {
+    color: #345b85;
+    font-size: 14px;
+}
