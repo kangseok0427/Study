@@ -19,3 +19,5 @@
 학습·개선: 서버 환경 변수를 바꾼 뒤 재시작·재배포해야 적용된다. 음성 200 응답에서도 기계 발음을 잘못 인식했으므로, 전송 성공과 내용 정확성을 따로 확인해야 한다.
 
 검증: 코랩·Production API·배포 화면 예제 분석 완료 / 휴대폰 검증 대기 / 개인 작업의 회의 공유 해당 없음 / 승인·머지 사용자 검토 대기. [PR #4](https://github.com/kangseok0427/Study/pull/4)를 검토용으로 제출하며 main에는 병합하지 않는다. 사용자는 기능과 인식 오차를 검토할 수 있다.
+
+추가 제출 조건(사용자 제공): 서비스 URL, Streamlit Secrets 화면(값 숨김), API /docs 화면. 이 세 항목만 담은 `20261118_AI_PLF_Submission.zip`을 바탕화면에 준비하고 파일 개수·압축 내용 해시를 확인했다. [Secrets 캡처](evidence/Streamlit_Secrets_Masked.jpg)는 실제 앱 설정 창에서 값을 캡처용 별표로 임시 편집한 미저장 화면이며, 캡처 후 Discard로 버렸다. 저장 버튼을 누르지 않아 실제 설정은 유지된다. [API 문서 캡처](evidence/API_Docs.jpg)는 새 서비스의 /docs 화면이며 GET /, POST /describe, POST /listen을 표시한다. 실제 학습 시스템 업로드는 하지 않았다. 사용자 제공 마감은 2026-11-24 23:59(한국 시간)다.
