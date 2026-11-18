@@ -1,0 +1,53 @@
+{
+  "verified_code_commit": "05ff1fd40b21bde130fbdc2ab8c0a5de8e460c52",
+  "backend_deployment": "dpl_2Vr6iavCPhxBnoTktgknRburji8s",
+  "api": "https://lecture-board-kangseok.vercel.app",
+  "service": "https://lecture-board-kangseok.streamlit.app",
+  "evidence_source": "Actual deployed Streamlit UI and HTTP requests; synthetic example media",
+  "local_mock_tests": {
+    "passed": 12,
+    "real_ai": false
+  },
+  "photo_text": {
+    "status": 200,
+    "tokens": 1522,
+    "used_inputs": [
+      "사진",
+      "텍스트"
+    ],
+    "question": "용어 설명에는 base64만 설명해 주세요.",
+    "observed_term_explanation": "base64는 파일 바이트를 전송 가능한 문자열로 표현하는 방식이다.",
+    "question_reflected": true
+  },
+  "photo_voice": {
+    "status": 200,
+    "tokens": 1643,
+    "used_inputs": [
+      "사진",
+      "음성"
+    ],
+    "heard_question": "복습 질문은 JSON에 대해서만 두 개 만들어 주세요.",
+    "observed_review_questions": [
+      "JSON은 어떤 형태로 데이터를 정리하나요?",
+      "JSON의 핵심 특징은 무엇인가요?"
+    ],
+    "question_reflected": true
+  },
+  "deployed_negative_checks": {
+    "wrong_access_code": 401,
+    "image_only": 422
+  },
+  "phone_camera_microphone_test": "Not performed",
+  "final_frontend_code_commit": "c70f09d",
+  "photo_voice_after_frontend_restart": {
+    "status": 200,
+    "tokens": 1632,
+    "heard_question": "복습 질문은 제이슨에 대해서만 두 개 만들어 주세요.",
+    "review_questions": [
+      "JSON은 어떤 형태로 데이터를 정리하나요?",
+      "JSON 데이터는 주로 어떤 구조의 쌍으로 이루어져 있나요?"
+    ],
+    "three_summary_items_separately_displayed": true,
+    "question_reflected": true
+  }
+}
