@@ -1,5 +1,6 @@
 import base64
 import io
+import re
 from pathlib import Path
 
 import requests
@@ -25,6 +26,8 @@ def show_result(data):
         st.info("음성으로 전달한 질문: " + data["heard_question"])
     for name, content in data["result"].items():
         st.markdown("#### " + name)
+        if name in ("핵심 3줄", "복습 질문"):
+            content = re.sub(r"\s+([1-3]\.)\s+", r"\n\n\1 ", content)
         st.write(content)
     st.caption("함께 사용한 입력: " + " · ".join(data["used_inputs"]) + f" · 상태 200 · 토큰 {data.get('tokens')}")
 
