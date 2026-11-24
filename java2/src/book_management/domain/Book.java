@@ -6,6 +6,8 @@ public class Book {
     private String author;
     private int price;
     private int inventory;
+    private int categoryId;
+    private int publishId;
     private String publish_name;
     private String category_name;
 
@@ -15,6 +17,22 @@ public class Book {
 
     public void setIsbn(int isbn) {
         this.isbn = isbn;
+    }
+
+    public int getCategoryId() {
+        return categoryId;
+    }
+
+    public void setCategoryId(int categoryId) {
+        this.categoryId = categoryId;
+    }
+
+    public int getPublishId() {
+        return publishId;
+    }
+
+    public void setPublishId(int publishId) {
+        this.publishId = publishId;
     }
 
     public String getName() {
