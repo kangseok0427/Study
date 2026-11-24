@@ -12,7 +12,7 @@ public class BookSearchPan extends JPanel {
     JButton btnSearch = new JButton("검색");
     String[] comboStr = {"도서명", "출판사명", "저자명"};
     JComboBox<String> combo = new JComboBox<String>(comboStr);
-    String[] tableHeader = {"ISBN", "도서명", "저자명", "출판사명", "가격", "재고", "분류명"};
+    String[] tableHeader = {"도서번호", "도서명", "저자명", "가격", "재고량", "카테고리", "출판사"};
     ArrayList<Book> bookList = new ArrayList<>();
     DefaultTableModel model;
     JTable table;
@@ -52,10 +52,10 @@ public class BookSearchPan extends JPanel {
             model.setValueAt(book.getIsbn(), i, 0);
             model.setValueAt(book.getName(), i, 1);
             model.setValueAt(book.getAuthor(), i, 2);
-            model.setValueAt(book.getPublish_name(), i, 3);
-            model.setValueAt(book.getPrice(), i, 4);
-            model.setValueAt(book.getInventory(), i, 5);
-            model.setValueAt(book.getCategory_name(), i, 6);
+            model.setValueAt(book.getPrice(), i, 3);
+            model.setValueAt(book.getInventory(), i, 4);
+            model.setValueAt(book.getCategory_name(), i, 5);
+            model.setValueAt(book.getPublish_name(), i, 6);
         }
     }
 
