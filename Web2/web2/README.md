@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# 웹프로그래밍 활용 기말과제
+
+기존 개인 포트폴리오를 React 함수형 컴포넌트로 구성했습니다. 홈, 개발자 소개, 프로젝트가 각각 `#home`, `#about`, `#projects` 주소에서 표시됩니다. 프로젝트 화면에는 전체·AI·게임 필터가 있습니다.
+
+`npm ci` 후 `npm start`로 실행합니다. 제작용 빌드는 `npm run build`로 만듭니다. 소스는 `src/term-project/`에 있으며, [기말과제 보고서](docs/Web_Term_Project_2601110276.pdf)에 실행 화면과 구현 내용을 정리했습니다.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
